@@ -1,5 +1,4 @@
-{
-    [
+[
       {
         "title": "The Catcher in the Rye",
         "id": "1",
@@ -15,5 +14,4 @@
         "id":"3",
         "body":"The Hunger Games is a dystopian novel by Suzanne Collins, set in a future where a cruel and oppressive regime forces children to fight to the death in a televised spectacle. The story follows Katniss Everdeen, a 16-year-old girl who volunteers to take her sister's place in the deadly competition. Along with Peeta Mellark, a boy from her district, she must survive the brutal arena and outwit the ruthless Capitol. The Hunger Games is a thrilling and captivating adventure that explores themes of survival, rebellion, and love."
       }
-    ]
-}
+]
