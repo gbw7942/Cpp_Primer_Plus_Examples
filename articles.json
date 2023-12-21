@@ -1,0 +1,19 @@
+{
+    "passages": [
+      {
+        "title": "The Catcher in the Rye",
+        "id": "1",
+        "content": "If you really want to hear about it, the first thing you'll probably want to know is where I was born, and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don't feel like going into it, if you want to know the truth."
+      },
+      {
+        "title": "Pride and Prejudice",
+        "id": "2",
+        "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of ..."
+      }
+      {
+        "title":"The Hunger Games",
+        "id":"3",
+        "content":"The Hunger Games is a dystopian novel by Suzanne Collins, set in a future where a cruel and oppressive regime forces children to fight to the death in a televised spectacle. The story follows Katniss Everdeen, a 16-year-old girl who volunteers to take her sister's place in the deadly competition. Along with Peeta Mellark, a boy from her district, she must survive the brutal arena and outwit the ruthless Capitol. The Hunger Games is a thrilling and captivating adventure that explores themes of survival, rebellion, and love."
+      }
+    ]
+}
